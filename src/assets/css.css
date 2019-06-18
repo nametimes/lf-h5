@@ -1,0 +1,7 @@
+ html,body,li,div,ul,a{
+    marign:0px;
+    padding:0px;
+ }
+html{
+     background: #ededed;
+}
